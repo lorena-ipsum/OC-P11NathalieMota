@@ -1,0 +1,342 @@
+[22-Apr-2024 15:29:36 UTC] PHP Deprecated:  La fonction wp_update_https_detection_errors est obsolète depuis la version 6.4.0, aucune alternative n’est disponible. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[23-Apr-2024 14:50:09 UTC] PHP Fatal error:  Cannot declare class Walker_Nav_Menu, because the name is already in use in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 0
+[23-Apr-2024 15:12:19 UTC] PHP Notice:  Undefined property: stdClass::$parent_item in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 167
+[23-Apr-2024 15:12:19 UTC] PHP Notice:  Undefined variable: indent in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 169
+[23-Apr-2024 15:12:19 UTC] PHP Notice:  Undefined variable: class_names in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 169
+[23-Apr-2024 15:12:19 UTC] PHP Notice:  Undefined property: stdClass::$parent_item in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 167
+[23-Apr-2024 15:12:19 UTC] PHP Notice:  Undefined variable: indent in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 169
+[23-Apr-2024 15:12:19 UTC] PHP Notice:  Undefined variable: class_names in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 169
+[23-Apr-2024 15:12:19 UTC] PHP Notice:  Undefined property: stdClass::$parent_item in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 167
+[23-Apr-2024 15:12:19 UTC] PHP Notice:  Undefined variable: indent in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 169
+[23-Apr-2024 15:12:19 UTC] PHP Notice:  Undefined variable: class_names in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php on line 169
+[23-Apr-2024 15:27:46 UTC] PHP Fatal error:  Uncaught Error: Class 'A11y_Walker_Nav_Menu' not found in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php:28
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(810): require_once()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/page.php(1): get_header()
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php on line 28
+[23-Apr-2024 15:28:20 UTC] PHP Fatal error:  Uncaught Error: Class 'A11y_Walker_Nav_Menu' not found in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php:28
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(810): require_once()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/page.php(1): get_header()
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php on line 28
+[23-Apr-2024 15:28:21 UTC] PHP Fatal error:  Uncaught Error: Class 'A11y_Walker_Nav_Menu' not found in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php:28
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(810): require_once()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/page.php(1): get_header()
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php on line 28
+[23-Apr-2024 15:28:22 UTC] PHP Fatal error:  Uncaught Error: Class 'A11y_Walker_Nav_Menu' not found in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php:28
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(810): require_once()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/page.php(1): get_header()
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php on line 28
+[25-Apr-2024 11:24:13 UTC] PHP Warning:  require_once(/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:24:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:24:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[25-Apr-2024 11:24:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[25-Apr-2024 11:25:08 UTC] PHP Warning:  require_once(/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:25:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:26:36 UTC] PHP Warning:  require_once(/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:26:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:26:38 UTC] PHP Warning:  require_once(/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:26:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:26:55 UTC] PHP Warning:  require_once(/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:26:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:27:12 UTC] PHP Warning:  require_once(/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:27:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:27:18 UTC] PHP Warning:  require_once(/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:27:18 UTC] PHP Fatal error:  require_once(): Failed opening required '/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:27:19 UTC] PHP Warning:  require_once(/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:27:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:27:20 UTC] PHP Warning:  require_once(/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:27:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/menu.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 3
+[25-Apr-2024 11:29:00 UTC] PHP Deprecated:  Le fichier Thème sans header.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de header.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:29:00 UTC] PHP Deprecated:  Le fichier Thème sans footer.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de footer.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:29:01 UTC] PHP Deprecated:  Le fichier Thème sans header.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de header.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:29:01 UTC] PHP Deprecated:  Le fichier Thème sans header.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de header.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:29:01 UTC] PHP Deprecated:  Le fichier Thème sans footer.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de footer.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:29:01 UTC] PHP Deprecated:  Le fichier Thème sans footer.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de footer.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:31:13 UTC] PHP Deprecated:  Le fichier Thème sans header.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de header.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:31:13 UTC] PHP Deprecated:  Le fichier Thème sans footer.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de footer.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:31:14 UTC] PHP Deprecated:  Le fichier Thème sans header.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de header.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:31:14 UTC] PHP Deprecated:  Le fichier Thème sans footer.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de footer.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:31:14 UTC] PHP Deprecated:  Le fichier Thème sans header.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de header.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:31:14 UTC] PHP Deprecated:  Le fichier Thème sans footer.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de footer.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:33:03 UTC] PHP Parse error:  syntax error, unexpected ''/style/styles.css'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 8
+[25-Apr-2024 11:34:36 UTC] PHP Parse error:  syntax error, unexpected ''/style/styles.css'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 8
+[25-Apr-2024 11:36:19 UTC] PHP Deprecated:  Le fichier Thème sans comments.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de comments.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 11:36:42 UTC] PHP Deprecated:  Le fichier Thème sans comments.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de comments.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 15:42:17 UTC] PHP Deprecated:  Le fichier Thème sans comments.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de comments.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 15:42:48 UTC] PHP Deprecated:  Le fichier Thème sans comments.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de comments.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 15:43:02 UTC] PHP Deprecated:  Le fichier Thème sans comments.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de comments.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[25-Apr-2024 15:55:05 UTC] PHP Notice:  Trying to get property 'title' of non-object in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/class-wp-customize-widgets.php on line 905
+[28-Apr-2024 14:31:48 UTC] PHP Deprecated:  Le fichier Thème sans comments.php est obsolète depuis la version 3.0.0, aucune alternative n’est disponible. Veuillez inclure un modèle de comments.php à votre thème. in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/functions.php on line 6078
+[01-May-2024 13:00:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-photos.php on line 4
+[01-May-2024 13:06:33 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-photos.php on line 4
+[01-May-2024 17:47:27 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php:13
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 13
+[01-May-2024 17:49:39 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php:13
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 13
+[01-May-2024 18:30:31 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:30:47 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:30:48 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:31:11 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:31:12 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:31:13 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:31:30 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:31:31 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:43:54 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:43:55 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:03 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:04 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:05 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:05 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:05 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:06 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:06 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:11 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:12 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[01-May-2024 18:44:23 UTC] PHP Fatal error:  Uncaught Error: Object of class WP_Error could not be converted to string in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php:1108
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php(4682): wp_check_invalid_utf8(Object(WP_Error))
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(13): esc_html(Object(WP_Error))
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/formatting.php on line 1108
+[03-May-2024 15:35:46 UTC] PHP Notice:  Trying to get property 'title' of non-object in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/class-wp-customize-widgets.php on line 905
+[05-May-2024 12:51:16 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting ')' in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 47
+[06-May-2024 10:00:03 UTC] PHP Notice:  Trying to get property 'title' of non-object in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/class-wp-customize-widgets.php on line 905
+[06-May-2024 10:01:31 UTC] PHP Notice:  Trying to get property 'title' of non-object in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/class-wp-customize-widgets.php on line 905
+[08-May-2024 15:37:39 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 111
+[09-May-2024 13:51:27 UTC] PHP Notice:  Trying to get property 'title' of non-object in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/class-wp-customize-widgets.php on line 905
+[09-May-2024 15:07:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_random_hero_image() in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 6
+[09-May-2024 15:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_random_hero_image() in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 6
+[09-May-2024 15:08:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_random_hero_image() in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 6
+[09-May-2024 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_random_hero_image() in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 6
+[09-May-2024 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_random_hero_image() in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 6
+[09-May-2024 15:08:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_random_hero_image() in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 6
+[13-May-2024 13:29:13 UTC] PHP Fatal error:  Cannot redeclare get_random_hero_image() (previously declared in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php:50) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 7
+[14-May-2024 14:43:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ';' or ',' in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 96
