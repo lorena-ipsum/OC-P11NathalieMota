@@ -341,3 +341,47 @@ Stack trace:
 [13-May-2024 13:29:13 UTC] PHP Fatal error:  Cannot redeclare get_random_hero_image() (previously declared in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php:50) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 7
 [14-May-2024 14:43:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ';' or ',' in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/functions.php on line 96
 [21-May-2024 14:33:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/templates_parts/photo_block.php on line 24
+[23-May-2024 12:31:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Mota_Walker_Nav_Menu' not found in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php:37
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(810): require_once()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php(1): get_header()
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php on line 37
+[23-May-2024 12:31:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Mota_Walker_Nav_Menu' not found in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php:37
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(810): require_once()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php on line 37
+[23-May-2024 12:31:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Mota_Walker_Nav_Menu' not found in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php:37
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(810): require_once()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(2): get_header()
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php on line 37
+[23-May-2024 12:31:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Mota_Walker_Nav_Menu' not found in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php:37
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(810): require_once()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', true, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/index.php(2): get_header()
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php on line 37
