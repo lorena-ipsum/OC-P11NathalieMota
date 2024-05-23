@@ -385,3 +385,319 @@ Stack trace:
 #6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M...')
 #7 {main}
   thrown in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/header.php on line 37
+[23-May-2024 13:23:44 UTC] Category: 14
+[23-May-2024 13:23:44 UTC] Format: 7
+[23-May-2024 13:23:44 UTC] Order: 
+[23-May-2024 13:23:44 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[23-May-2024 13:23:47 UTC] Category: 14
+[23-May-2024 13:23:47 UTC] Format: 7
+[23-May-2024 13:23:47 UTC] Order: ASC
+[23-May-2024 13:23:47 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => ASC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[23-May-2024 13:23:51 UTC] Category: 14
+[23-May-2024 13:23:51 UTC] Format: 7
+[23-May-2024 13:23:51 UTC] Order: DESC
+[23-May-2024 13:23:51 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => DESC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[23-May-2024 13:23:53 UTC] Category: 14
+[23-May-2024 13:23:53 UTC] Format: 
+[23-May-2024 13:23:53 UTC] Order: DESC
+[23-May-2024 13:23:53 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => DESC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+        )
+
+)
+
+[23-May-2024 13:23:55 UTC] Category: 13
+[23-May-2024 13:23:55 UTC] Format: 
+[23-May-2024 13:23:55 UTC] Order: DESC
+[23-May-2024 13:23:55 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => DESC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 13
+                )
+
+        )
+
+)
+
+[23-May-2024 13:25:25 UTC] Category: 14
+[23-May-2024 13:25:25 UTC] Format: 
+[23-May-2024 13:25:25 UTC] Order: 
+[23-May-2024 13:25:25 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+        )
+
+)
+
+[23-May-2024 13:25:32 UTC] Category: 16
+[23-May-2024 13:25:32 UTC] Format: 
+[23-May-2024 13:25:32 UTC] Order: 
+[23-May-2024 13:25:32 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 16
+                )
+
+        )
+
+)
+
+[23-May-2024 13:25:36 UTC] Category: 15
+[23-May-2024 13:25:36 UTC] Format: 
+[23-May-2024 13:25:36 UTC] Order: 
+[23-May-2024 13:25:36 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 15
+                )
+
+        )
+
+)
+
+[23-May-2024 13:25:40 UTC] Category: 
+[23-May-2024 13:25:40 UTC] Format: 
+[23-May-2024 13:25:40 UTC] Order: 
+[23-May-2024 13:25:40 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+        )
+
+)
+
+[23-May-2024 13:25:42 UTC] Category: 
+[23-May-2024 13:25:42 UTC] Format: 7
+[23-May-2024 13:25:42 UTC] Order: 
+[23-May-2024 13:25:42 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[23-May-2024 13:25:44 UTC] Category: 14
+[23-May-2024 13:25:44 UTC] Format: 7
+[23-May-2024 13:25:44 UTC] Order: 
+[23-May-2024 13:25:44 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[23-May-2024 13:25:47 UTC] Category: 14
+[23-May-2024 13:25:47 UTC] Format: 7
+[23-May-2024 13:25:47 UTC] Order: ASC
+[23-May-2024 13:25:47 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => ASC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
