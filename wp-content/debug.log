@@ -701,3 +701,369 @@ Stack trace:
 
 )
 
+[23-May-2024 14:26:16 UTC] Category: 14
+[23-May-2024 14:26:16 UTC] Format: 
+[23-May-2024 14:26:16 UTC] Order: 
+[23-May-2024 14:26:16 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+        )
+
+)
+
+[23-May-2024 14:26:20 UTC] Category: 16
+[23-May-2024 14:26:20 UTC] Format: 
+[23-May-2024 14:26:20 UTC] Order: 
+[23-May-2024 14:26:20 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 16
+                )
+
+        )
+
+)
+
+[23-May-2024 14:26:26 UTC] Category: 15
+[23-May-2024 14:26:26 UTC] Format: 
+[23-May-2024 14:26:26 UTC] Order: 
+[23-May-2024 14:26:26 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 15
+                )
+
+        )
+
+)
+
+[23-May-2024 14:26:30 UTC] Category: 15
+[23-May-2024 14:26:30 UTC] Format: 7
+[23-May-2024 14:26:30 UTC] Order: 
+[23-May-2024 14:26:30 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 15
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[23-May-2024 14:26:34 UTC] Category: 15
+[23-May-2024 14:26:34 UTC] Format: 7
+[23-May-2024 14:26:34 UTC] Order: ASC
+[23-May-2024 14:26:34 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => ASC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 15
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[23-May-2024 14:26:41 UTC] Category: 15
+[23-May-2024 14:26:41 UTC] Format: 7
+[23-May-2024 14:26:41 UTC] Order: 
+[23-May-2024 14:26:41 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 15
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[23-May-2024 14:26:44 UTC] Category: 15
+[23-May-2024 14:26:44 UTC] Format: 
+[23-May-2024 14:26:44 UTC] Order: 
+[23-May-2024 14:26:44 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 15
+                )
+
+        )
+
+)
+
+[23-May-2024 14:27:46 UTC] Category: 
+[23-May-2024 14:27:46 UTC] Format: 
+[23-May-2024 14:27:46 UTC] Order: 
+[23-May-2024 14:27:46 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+        )
+
+)
+
+[24-May-2024 12:49:11 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 95
+[24-May-2024 12:52:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 92
+[24-May-2024 12:52:15 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 92
+[24-May-2024 12:55:17 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 100
+[24-May-2024 12:55:18 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 100
+[24-May-2024 12:55:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/templates_parts/photo_block.php on line 32
+[24-May-2024 13:02:49 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 94
+[24-May-2024 13:03:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 96
+[24-May-2024 13:03:35 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 92
+[24-May-2024 13:03:36 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 92
+[24-May-2024 13:14:04 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 95
+[24-May-2024 13:17:34 UTC] PHP Notice:  Undefined variable: related_query in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/templates_parts/photo_block.php on line 2
+[24-May-2024 13:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/templates_parts/photo_block.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(812): require()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', false, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(86): get_template_part('templates_parts...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/templates_parts/photo_block.php on line 2
+[24-May-2024 13:19:14 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 95
+[24-May-2024 13:21:46 UTC] PHP Notice:  Undefined variable: related_query in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/templates_parts/photo_block.php on line 2
+[24-May-2024 13:21:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/templates_parts/photo_block.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(812): require()
+#1 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template.php(745): load_template('/Applications/M...', false, Array)
+#2 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php(86): get_template_part('templates_parts...')
+#4 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/index.php(17): require('/Applications/M in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/templates_parts/photo_block.php on line 2
+[24-May-2024 13:23:23 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE) in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 96
+[24-May-2024 15:07:25 UTC] Category: 
+[24-May-2024 15:07:25 UTC] Format: 7
+[24-May-2024 15:07:25 UTC] Order: 
+[24-May-2024 15:07:25 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[24-May-2024 15:07:28 UTC] Category: 14
+[24-May-2024 15:07:28 UTC] Format: 7
+[24-May-2024 15:07:28 UTC] Order: 
+[24-May-2024 15:07:28 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[24-May-2024 15:07:32 UTC] Category: 14
+[24-May-2024 15:07:32 UTC] Format: 7
+[24-May-2024 15:07:32 UTC] Order: ASC
+[24-May-2024 15:07:32 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => ASC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[24-May-2024 15:21:00 UTC] Category: 
+[24-May-2024 15:21:00 UTC] Format: 
+[24-May-2024 15:21:00 UTC] Order: ASC
+[24-May-2024 15:21:00 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => ASC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+        )
+
+)
+
+[24-May-2024 15:30:00 UTC] Category: 14
+[24-May-2024 15:30:00 UTC] Format: 
+[24-May-2024 15:30:00 UTC] Order: 
+[24-May-2024 15:30:00 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+        )
+
+)
+
