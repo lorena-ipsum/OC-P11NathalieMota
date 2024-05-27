@@ -1067,3 +1067,277 @@ Stack trace:
 
 )
 
+[27-May-2024 09:23:24 UTC] Category: 
+[27-May-2024 09:23:24 UTC] Format: 8
+[27-May-2024 09:23:24 UTC] Order: 
+[27-May-2024 09:23:24 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 8
+                )
+
+        )
+
+)
+
+[27-May-2024 09:23:29 UTC] Category: 
+[27-May-2024 09:23:29 UTC] Format: 8
+[27-May-2024 09:23:29 UTC] Order: ASC
+[27-May-2024 09:23:29 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => ASC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 8
+                )
+
+        )
+
+)
+
+[27-May-2024 10:31:55 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 53
+[27-May-2024 10:31:55 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 53
+[27-May-2024 10:31:55 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 53
+[27-May-2024 10:31:55 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 53
+[27-May-2024 10:31:55 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 53
+[27-May-2024 10:31:55 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 53
+[27-May-2024 10:31:55 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 53
+[27-May-2024 10:31:55 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/front-page.php on line 53
+[27-May-2024 10:32:02 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 33
+[27-May-2024 10:32:57 UTC] PHP Notice:  Undefined variable: category_list in /Applications/MAMP/htdocs/OC_p11_nmota/wordpress/wp-content/themes/NathalieMota/single-portfolio.php on line 33
+[27-May-2024 11:13:28 UTC] Category: 14
+[27-May-2024 11:13:28 UTC] Format: 
+[27-May-2024 11:13:28 UTC] Order: 
+[27-May-2024 11:13:28 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 14
+                )
+
+        )
+
+)
+
+[27-May-2024 11:13:35 UTC] Category: 
+[27-May-2024 11:13:35 UTC] Format: 
+[27-May-2024 11:13:35 UTC] Order: 
+[27-May-2024 11:13:35 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+        )
+
+)
+
+[27-May-2024 11:13:46 UTC] Category: 
+[27-May-2024 11:13:46 UTC] Format: 
+[27-May-2024 11:13:46 UTC] Order: ASC
+[27-May-2024 11:13:46 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => ASC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+        )
+
+)
+
+[27-May-2024 11:35:32 UTC] Category: 
+[27-May-2024 11:35:32 UTC] Format: 7
+[27-May-2024 11:35:32 UTC] Order: 
+[27-May-2024 11:35:32 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[27-May-2024 11:35:37 UTC] Category: 
+[27-May-2024 11:35:37 UTC] Format: 7
+[27-May-2024 11:35:37 UTC] Order: DESC
+[27-May-2024 11:35:37 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => DESC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[27-May-2024 11:35:40 UTC] Category: 16
+[27-May-2024 11:35:40 UTC] Format: 7
+[27-May-2024 11:35:40 UTC] Order: DESC
+[27-May-2024 11:35:40 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => DESC
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 16
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[27-May-2024 11:38:31 UTC] Category: 13
+[27-May-2024 11:38:31 UTC] Format: 
+[27-May-2024 11:38:31 UTC] Order: 
+[27-May-2024 11:38:31 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 13
+                )
+
+        )
+
+)
+
+[27-May-2024 11:38:35 UTC] Category: 13
+[27-May-2024 11:38:35 UTC] Format: 7
+[27-May-2024 11:38:35 UTC] Order: 
+[27-May-2024 11:38:35 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => categorie
+                    [field] => term_id
+                    [terms] => 13
+                )
+
+            [1] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 7
+                )
+
+        )
+
+)
+
+[27-May-2024 11:40:11 UTC] Category: 
+[27-May-2024 11:40:11 UTC] Format: 8
+[27-May-2024 11:40:11 UTC] Order: 
+[27-May-2024 11:40:11 UTC] Array
+(
+    [post_type] => portfolio
+    [posts_per_page] => -1
+    [orderby] => date
+    [order] => 
+    [post_status] => publish
+    [tax_query] => Array
+        (
+            [relation] => AND
+            [0] => Array
+                (
+                    [taxonomy] => formats
+                    [field] => term_id
+                    [terms] => 8
+                )
+
+        )
+
+)
+
